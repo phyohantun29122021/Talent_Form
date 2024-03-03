@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "courtesy": "Mr",
+    "firstName": "John",
+    "birthDate": "1990-01-01",
+    "position": "Software Engineer",
+    "salary": 80000,
+    "employmentType": "Full Time",
+    "industry": "Information Technology",
+    "eduLevel": "Bachelor's Degree",
+    "skill": "JavaScript, React",
+    "phoneNumber": "123-456-7890",
+    "email": "john@example.com",
+    "comment": "Great candidate, good communication skills."
+  },
+  {
+    "id": 2,
+    "courtesy": "Ms",
+    "firstName": "Alice",
+    "birthDate": "1992-05-15",
+    "position": "Data Analyst",
+    "salary": 70000,
+    "employmentType": "Full Time",
+    "industry": "Finance",
+    "eduLevel": "Master's Degree",
+    "skill": "SQL, Python, Data Analysis",
+    "phoneNumber": "987-654-3210",
+    "email": "alice@example.com",
+    "comment": "Highly skilled candidate, attention to detail."
+  }
+]
